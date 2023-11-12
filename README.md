@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Plamedi</h1>
-<h3 align="center">A passionate Software Engineer based in Washington States</h3>
+<h3 align="center">A passionate Software Engineer based in Washington State</h3>
 
 - 🔭 I’m currently working on [Task Planner](https://github.com/PlamediD/task_planner)
 
