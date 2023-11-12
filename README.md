@@ -3,9 +3,13 @@
 
 - 🔭 I’m currently working on [Task Planner](https://github.com/PlamediD/task_planner)
 
+- 🌱 I’m currently learning **Unit tests on LinkedIn learning**
+
 - 💬 Ask me about **C#, Object Oriented Design, MongoDB**
 
 - 📫 How to reach me **pdiakubama5@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sl2my9vmSzHbK-KXoMQk_NHw7n9RKc2E/view?usp=sharing](https://drive.google.com/file/d/1sl2my9vmSzHbK-KXoMQk_NHw7n9RKc2E/view?usp=sharing)
 
 - ⚡ Fun fact **I speak French**
 
