@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Plamedi</h1>
-<h3 align="center">A passionate Software Engineer based in Washington State</h3>
+<h3 align="center">A passionate Software Engineer based in Washington States</h3>
 
-- 🔭 I’m currently working on two flutter projects:
-      [Calculator] (https://github.com/PlamediD/calculator)
-       [Task Planner](https://github.com/PlamediD/task_planner)
+- 🔭 I’m currently working on [Calculator](https://github.com/PlamediD/calculator)
 
 - 🌱 I’m currently learning **Unit tests on LinkedIn learning**
+
+- 👯 I’m looking to collaborate on [Task Planner App](https://github.com/PlamediD/task_planner)
 
 - 💬 Ask me about **C#, Object Oriented Design, MongoDB**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/plamedi-k-diakubama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/plamedi-k-diakubama/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/plamedi-k-diakubama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/plamedi-k-diakubama/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pdiakubama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pdiakubama" height="30" width="40" /></a>
 </p>
 
