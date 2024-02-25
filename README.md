@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Calculator](https://github.com/PlamediD/calculator)
 
-- 🌱 I’m currently learning **Agile Project Management (https://www.linkedin.com/learning/certificates/8207f18abe160e7870c632674e7a6c0f2697ee00a81529f06097e964d1b5a300)**
+- 🌱 I’m currently learning **Web Development (https://www.udemy.com/course/the-complete-web-development-bootcamp/?utm_medium=udemyads&utm_source=facebook&utm_campaign=NEW-FB-PROS-ASC_Evergreen-USA-Smartly-EN&utm_term=)**
 
 - 👯 I’m looking to collaborate on [Task Planner App](https://github.com/PlamediD/task_planner)
 
