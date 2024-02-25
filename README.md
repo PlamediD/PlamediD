@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pdiakubama5@gmail.com**
 
-- 📄 Know about my experiences  (https://github.com/PlamediD/html-online resume )
+- 📄 Know about my experiences  ([MyResume](https://github.com/PlamediD/html-online-resume))
 
 - ⚡ Fun fact **I speak French**
 
