@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Plamedi</h1>
-<h3 align="center">A passionate Software Engineer based in Washington States</h3>
+<h3 align="center">Looking for a Software Engineering position </h3>
 
 - 🔭 I’m currently working on [Calculator](https://github.com/PlamediD/calculator)
 
